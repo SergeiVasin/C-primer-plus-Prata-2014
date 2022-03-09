@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)  {
-printf("Sergei Vasin\n");
-printf("Sergei\nVasin\n");
-printf("Vasin ");
-printf("Sergei\n");
+printf("Сергей Васин\n");
+printf("Сергей\nВасин\n");
+printf("Васин ");
+printf("Сергей\n");
 return 0;   }  

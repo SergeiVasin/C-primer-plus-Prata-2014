@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void)  {
-printf("My name is Sergei Vasin.\n");
-printf("My address is Russia.\n");
+printf("Моё имя:Сергей Васин!\n");
+printf("Мой адресс:Россия!\n");
 return 0;   } 
